@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Resource Pack do Addon Terror Psico 1.21 - Criado por Dn0",
+    "name": "Terror Psico RP",
+    "uuid": "f9a44d88-6b17-4e3a-9213-3e9342e7b5a9",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Módulo principal de recursos",
+      "type": "resources",
+      "uuid": "4e6d6a50-4c43-4a67-8c2a-11f6b2b45127",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "b1a96f99-72e8-4a6d-bd34-c7e0b1123456",
+      "version": [1, 0, 0]
+    }
+  ]
+}
