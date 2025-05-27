@@ -1,0 +1,37 @@
+{
+  "format_version": "1.10",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "terrorpsico:observer",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false,
+      "textures": ["textures/entity/observer_texture.png"],
+      "materials": ["entity_alphatest"],
+      "spawn_egg": {
+        "texture": "textures/items/observer_spawn_egg.png",
+        "display_name": "Observer"
+      }
+    },
+    "components": {
+      "minecraft:health": {
+        "value": 1,
+        "max": 1
+      },
+      "minecraft:armor": {
+        "protection": 0
+      },
+      "minecraft:movement": {
+        "value": 0
+      },
+      "minecraft:nameable": {},
+      "minecraft:collision_box": {
+        "width": 0.5,
+        "height": 1.8
+      },
+      "minecraft:interact": {
+        "interact_text": "Observe carefully..."
+      }
+    }
+  }
+}
