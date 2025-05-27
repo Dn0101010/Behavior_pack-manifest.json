@@ -1,0 +1,14 @@
+{
+  "screen_name": "jumpscare_screen",
+  "ui_elements": [
+    {
+      "type": "image",
+      "image": "textures/ui/jumpscare1.png",
+      "size": [100, 100],
+      "position": [50, 50],
+      "layer": 1,
+      "anchor_from": "center",
+      "offset": [0, 0]
+    }
+  ]
+}
