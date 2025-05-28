@@ -1,16 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "name": "TerrorPsico Resource Pack",
-    "description": "Pack de recursos do addon de terror psicológico",
-    "uuid": "4a99f120-2387-476a-9b9d-b4a720f3e192",
+    "name": "Terror Psychological RP",
+    "description": "Resource pack for the psychological horror addon",
+    "uuid": "e5e1a7b4-2c0a-4a9d-b72e-7d56d2be2f43",
     "version": [1, 0, 0],
-    "min_engine_version": [1, 20, 0]
+    "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "9d293802-d905-42b6-802c-0e7b0a994c9d",
+      "uuid": "27f2b22f-12b1-41e5-b982-49c58b82d0d9",
       "version": [1, 0, 0]
     }
   ]
