@@ -1,0 +1,14 @@
+{
+  "horror:jumpscare": {
+    "sounds": ["sounds/jumpscare_vhs"]
+  },
+  "horror:steps_behind": {
+    "sounds": ["sounds/steps_behind"]
+  },
+  "horror:breathing": {
+    "sounds": ["sounds/breathing"]
+  },
+  "horror:static_rise": {
+    "sounds": ["sounds/static_rise"]
+  }
+}
